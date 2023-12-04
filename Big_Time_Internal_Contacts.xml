@@ -1,0 +1,13 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<root_group>
+<group display_name="Internal" ring="Ring4.wav" />
+<group display_name="Blacklist" ring="" />
+</root_group>
+<root_contact>
+<contact display_name="Admin" office_number="1121" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+<contact display_name="Jody" office_number="1122" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+<contact display_name="Staff Room" office_number="1123" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+<contact display_name="Shop" office_number="1124" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+</root_contact>
+
