@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <root_group>
+    <group display_name="Internal" ring="Ring4.wav" />
+    <group display_name="Blacklist" ring="" />
+  </root_group>
+  <root_contact>
+    <contact display_name="Sandy" office_number="3091" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="Kelsey" office_number="3092" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="Marie" office_number="3093" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="Alisha" office_number="3094" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="Rikki" office_number="3095" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="Shop" office_number="3096" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="Spare Phone" office_number="3097" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />  
+  </root_contact>
