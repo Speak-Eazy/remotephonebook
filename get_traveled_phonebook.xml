@@ -1,0 +1,75 @@
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+  <Menu Name="All Contacts">
+    <Unit Name="Air Canada" Phone1="18005944859" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Air Canada Vacations" Phone1="18777527710" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Air Transat" Phone1="18888726728" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Airnets" Phone1="18662476387" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Alaska Airlines" Phone1="18002527522" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Anderson Vacations" Phone1="18668147378" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="AmaWaterways" Phone1="18006260126" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="American Airlines" Phone1="18002222377" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Asia Collection" Phone1="18775768617" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="British Airways" Phone1="18002479297" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Carnival Cruises" Phone1="18882276482" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Celebrity Cruises" Phone1="18006472251" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Central Mountain Air" Phone1="18888658585" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="CIBTvisas" Phone1="18886659956" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Club Med" Phone1="18004656633" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Collette" Phone1="18004685955" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Contiki" Phone1="18662240267" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Crystal Cruises" Phone1="18004466620" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Disney Cruise Lines" Phone1="18009513532" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Encore Cruises Priority Line" Phone1="18663831519" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Eurocar TT" Phone1="18882858384" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Exotik/Boomerang" Phone1="18887224212" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Exodus Travels" Phone1="18002673347" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Galileo Help Desk" Phone1="18004560654" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="G Adventures" Phone1="18888004100" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Globus/Cosmos" Phone1="18002681639" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Holland America Line" Phone1="18004260327" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Iceland Air" Phone1="18007577242" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Insight Vacations" Phone1="18003878490" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Intair" Phone1="18776212476" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Intrepid" Phone1="18669151511" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="KLM" Phone1="18003250678" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Lion World Travel" Phone1="18003872706" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Lufthansa" Phone1="18005635954" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Luxury Retreats" Phone1="18889699727" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Member Services" Phone1="18773148766" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Norwegian Cruise Lines" Phone1="18662347350" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Oceania Cruises" Phone1="18005315658" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Princess Cruises" Phone1="18007746237" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Rail Europe" Phone1="18003617245" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Regent Seven Seas Cruises" Phone1="18002851835" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Rocky Mountaineer" Phone1="18006657245" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Royal Caribbean Cruises" Phone1="18665627625" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Royal Irish/Scottish" Phone1="18669078687" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Sunwing" Phone1="18007611711" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Scenic River Cruises" Phone1="18666898611" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Seabourn Cruises" Phone1="18667555619" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="SkyTeam (DL NW KL AF)" Phone1="18006180104" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Star Clippers" Phone1="18004420551" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Tauck Tours" Phone1="18007887885" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="TDC Finance" Phone1="18003650424" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="TDC IT Help Desk" Phone1="18888243574" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="TDC YUL" Phone1="18003633786" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="TravCom" Phone1="18775825146" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Tour East" Phone1="18775788888" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Tours Chanteclerc" Phone1="18003618415" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Trafalgar" Phone1="18003872680" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Transat (Cruises and Holidays)" Phone1="18668870377" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Transat Travel Insurance" Phone1="18002632356" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Transat Travel Insurance MUPS" Phone1="18558575921" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Travsat Travel Insurance Referral" Phone1="18889904556" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="TravelBrands" Phone1="18445827263" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Travelport Help Desk" Phone1="18004560654" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="United Airlines" Phone1="18665880488" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Uniworld Boutique River Cruises" Phone1="18007337820" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Viking River Cruises" Phone1="18776684546" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Walt Disney Travel Company" Phone1="18003272996" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="WestJet" Phone1="18776643205" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="WestJet Vacations" Phone1="18777377001" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Windstar Cruises" Phone1="18002587245" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+</YealinkIPPhoneBook>
