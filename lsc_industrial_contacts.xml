@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <root_group>
+    <group display_name="Internal" ring="Ring4.wav" />
+    <group display_name="Blacklist" ring="" />
+  </root_group>
+  <root_contact>
+    <contact display_name="Linda" office_number="3170" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="QC Spare" office_number="3171" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="QC Main" office_number="3172" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="Reception" office_number="3173" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="Ryan" office_number="3174" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="Jarl" office_number="3175" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="Safety" office_number="3176" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="Lunch Room" office_number="3177" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="Training" office_number="3178" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="Purchasing" office_number="3179" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+  </root_contact>
