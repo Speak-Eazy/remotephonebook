@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
   <root_group>
-    <group display_name="Internal" ring="Ring4.wav" />
+    <group display_name="Internal" ring="Splash.wav" />
     <group display_name="Blacklist" ring="" />
   </root_group>
   <root_contact>
