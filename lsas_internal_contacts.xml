@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
   <root_group>
-    <group display_name="Internal" ring="Splash.wav" />
+    <group display_name="Internal" ring="Ring4.wav" />
     <group display_name="Blacklist" ring="" />
   </root_group>
   <root_contact>
@@ -11,10 +11,10 @@
     <contact display_name="Tammy" office_number="205" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
     <contact display_name="Ally" office_number="206" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
     <contact display_name="Cassidy" office_number="207" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
-    <contact display_name="Spare" office_number="208" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
-    <contact display_name="Main Floor CI" office_number="209" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="Kaden" office_number="208" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="carly" office_number="209" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
     <contact display_name="Spare" office_number="210" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
-    <contact display_name="Brooke" office_number="211" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="Spare" office_number="211" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
     <contact display_name="Jaime" office_number="212" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
     <contact display_name="Spare" office_number="213" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
     <contact display_name="Luccia" office_number="214" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
