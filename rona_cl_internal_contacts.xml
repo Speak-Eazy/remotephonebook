@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <root_group>
+    <group display_name="Internal" ring="Ring4.wav" />
+    <group display_name="Blacklist" ring="" />
+  </root_group>
+  <root_contact>
+    <contact display_name="2001" office_number="2001" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="2002" office_number="2002" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="2003" office_number="2003" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="2004" office_number="2004" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="2005" office_number="2005" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="2006" office_number="206" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="2007" office_number="2007" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="2008" office_number="2008" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="2009" office_number="2009" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="2010" office_number="2010" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="2011" office_number="2011" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="2012" office_number="2012" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="2013" office_number="2013" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+
+  </root_contact>
