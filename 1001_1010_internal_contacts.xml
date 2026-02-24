@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <root_group>
+    <group display_name="Internal" ring="Ring4.wav" />
+    <group display_name="Blacklist" ring="" />
+  </root_group>
+  <root_contact>
+    <contact display_name="1001" office_number="1001" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="1002" office_number="1002" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="1003" office_number="1003" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="1004" office_number="1004" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="1005" office_number="1005" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="1006" office_number="1006" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="1007" office_number="1007" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="1008" office_number="1008" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="1009" office_number="1009" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+    <contact display_name="1010" office_number="1010" mobile_number="" other_number="" line="1" ring="" group_id_name="Internal" default_photo="" auto_divert="" />
+  </root_contact>
