@@ -1,8 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xxxIPPhoneDirectory clearlight="true">
   <DirectoryEntry>
-    <Name></Name>
-    <Telephone></Telephone>
+    <Name>Jim</Name>
+    <Telephone>7806394222</Telephone>
   </DirectoryEntry>
- 
+   <DirectoryEntry>
+    <Name>Jim Cell</Name>
+    <Telephone>7808129800</Telephone>
+  </DirectoryEntry>
+    <DirectoryEntry>
+    <Name>After Hours Cell</Name>
+    <Telephone>7808125249</Telephone>
+  </DirectoryEntry>
+    <DirectoryEntry>
+    <Name>Nikki</Name>
+    <Telephone>7808124947</Telephone>
+  </DirectoryEntry>
 </xxxIPPhoneDirectory>
